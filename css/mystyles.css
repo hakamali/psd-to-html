@@ -1,0 +1,27 @@
+.main-container{
+	background: #FEFEFE;
+}
+.navbar-default{
+	background: #FEFEFE;
+}
+.div3{
+	background-color: #00CCFF;
+}
+.div4 img{
+   
+  padding-left: 10px;
+}
+.fa-circle:hover{
+	color:#00CCFF;
+}
+
+div5{
+	background-color:#33CC99;
+
+}
+.slider{
+	background-image: url(../i.png);
+.bgimage{
+	background-image:url(images/logo.png);
+
+}
